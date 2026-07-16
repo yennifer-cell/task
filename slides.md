@@ -6,8 +6,6 @@
 
 - **Project:** Inventory Management System (Flask)
 - **Audience:** Instructor / teammates / demo
-- **Presenter notes:** Briefly state the goal: build a REST API, integrate an external product API, provide a CLI, and add tests.
-
 ---
 
 ## Slide 1 — Problem Statement
