@@ -103,22 +103,4 @@
 
 - Local git repo initialized and committed.
 - Recommended: push to GitHub, create feature branches, open PRs to demonstrate Git workflow.
-- Presenter notes: Walk through the commands to push and create a branch.
-
----
-
-## Slide 11 — Next Steps / Enhancements
-
-- Replace in-memory DB with SQLite or PostgreSQL
-- Add authentication and admin UI (Flask or a lightweight frontend)
-- Add CI (GitHub Actions) to run tests on PRs
-- Add pagination, filtering, and CSV import/export
-- Presenter notes: Choose 2-3 realistic next steps to propose.
-
----
-
-## Slide 12 — Q&A / Contact
-
-- Recap the main deliverables and where code lives.
-- Provide contact / GitHub repo link (if available).
-- Presenter notes: Invite questions and offer to walk through code paths live.
+- Presenter notes: Walk through the commands to push and create a branch
